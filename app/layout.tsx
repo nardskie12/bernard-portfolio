@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Raynel's Portfolio | BSIT Student & Web Developer",
+  title: "Bernard Bioco",
   description: "Portfolio of Raynel, a BSIT 3rd year student specializing in web development with HTML, CSS, JavaScript, React, Next.js, and Express.js",
 };
 
