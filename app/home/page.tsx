@@ -102,7 +102,7 @@ export default function HomePage() {
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                onClick={() => window.open("/madelo_resume.pdf", "_blank")}
+                onClick={() => window.open("/resume.pdf", "_blank")}
                 className="flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-primary to-primary/80 text-white rounded-lg font-semibold shadow-lg shadow-primary/50 hover:shadow-xl hover:shadow-primary/60 transition-all"
               >
                 <FileText className="w-5 h-5" />
